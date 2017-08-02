@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="12" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="13" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="17" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="18" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="24" pc="268435521" symbol="onShow"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="28" pc="268435526" symbol="onUpdate"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="30" pc="268435530" symbol="onUpdate"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="31" pc="268435547" symbol="onUpdate"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="32" pc="268435621" symbol="onUpdate"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="33" pc="268435645" symbol="onUpdate"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="35" pc="268435659" symbol="onUpdate"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="36" pc="268435703" symbol="onUpdate"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="38" pc="268435779" symbol="onUpdate"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="39" pc="268435803" symbol="onUpdate"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="41" pc="268435817" symbol="onUpdate"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="42" pc="268435834" symbol="onUpdate"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="43" pc="268435844" symbol="onUpdate"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="44" pc="268435896" symbol="onUpdate"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="45" pc="268435920" symbol="onUpdate"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="49" pc="268435934" symbol="onUpdate"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="55" pc="268435955" symbol="onHide"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="59" pc="268435960" symbol="onExitSleep"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceView.mc" lineNum="63" pc="268435965" symbol="onEnterSleep"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceApp.mc" lineNum="5" pc="268435970" symbol="initialize"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceApp.mc" lineNum="6" pc="268435974" symbol="initialize"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceApp.mc" lineNum="10" pc="268435993" symbol="onStart"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceApp.mc" lineNum="14" pc="268435998" symbol="onStop"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceApp.mc" lineNum="18" pc="268436003" symbol="getInitialView"/>
+<entry filename="/Users/chadwick/Documents/Programming/Eclipse Workspace/simple-watchface/source/simplewatchfaceApp.mc" lineNum="19" pc="268436007" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="18" pc="268436045" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="20" pc="268436057" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="21" pc="268436220" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="22" pc="268436245" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="23" pc="268436297" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="24" pc="268436343" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268436506" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="28" pc="268436669" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="14" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry id="10" object="true" symbol="simplewatchfaceApp"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="9" object="true" symbol="simplewatchfaceView"/>
+<entry id="8389347" symbol="color"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry id="8388642" module="true" symbol="Position"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435521" name="dc" stackId="1" startPc="268435479"/>
+<entry endPc="268435954" name="timeString" stackId="3" startPc="268435530"/>
+<entry endPc="268435954" name="batStr" stackId="10" startPc="268435530"/>
+<entry endPc="268435954" name="date" stackId="7" startPc="268435530"/>
+<entry endPc="268435954" name="clockTime" stackId="2" startPc="268435530"/>
+<entry endPc="268435954" name="stats" stackId="8" startPc="268435530"/>
+<entry endPc="268435954" name="battery" stackId="11" startPc="268435530"/>
+<entry endPc="268435954" name="view" stackId="4" startPc="268435530"/>
+<entry endPc="268435954" name="dateString" stackId="6" startPc="268435530"/>
+<entry endPc="268435954" name="dateInfo" stackId="5" startPc="268435530"/>
+<entry endPc="268435954" name="pwr" stackId="9" startPc="268435530"/>
+<entry endPc="268435955" name="dc" stackId="1" startPc="268435526"/>
+<entry endPc="268435998" name="state" stackId="1" startPc="268435993"/>
+<entry endPc="268436003" name="state" stackId="1" startPc="268435998"/>
+<entry endPc="268436706" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268436057"/>
+<entry endPc="268436706" name="rez_cmp_local_bitmap_DateLabel" stackId="4" startPc="268436057"/>
+<entry endPc="268436706" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268436057"/>
+<entry endPc="268436706" name="rez_cmp_local_bitmap_BatteryLabel" stackId="5" startPc="268436057"/>
+<entry endPc="268436707" name="dc" stackId="1" startPc="268436045"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="simplewatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="simplewatchfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="simplewatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="simplewatchfaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="simplewatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="simplewatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="simplewatchfaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="simplewatchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="simplewatchfaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="simplewatchfaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="simplewatchfaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="simplewatchfaceView" type="class"/>
+<dataEntry offset="261" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="340" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="379" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="410" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="441" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="472" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="511" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="550" parentId="globals" symbolId="simplewatchfaceApp" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>
