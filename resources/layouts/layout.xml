@@ -1,5 +1,6 @@
 <layout id="WatchFace">
-    <label id="TimeLabel" x="center" y="center" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_DK_BLUE" />
-    <label id="DateLabel" x="left" y="top" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_DK_BLUE" />
-    <label id="BatteryLabel" x="right" y="top" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_DK_BLUE" />
+    <bitmap id="mebri" filename="../images/mebri3.png" x="center" y="center"/>
+    <label id="TimeLabel" x="left" y="top" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLACK" />
+    <label id="DateLabel" x="left" y="bottom" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLACK" />
+    <label id="BatteryLabel" x="right" y="bottom" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_BLACK" />
 </layout>

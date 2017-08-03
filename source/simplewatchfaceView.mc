@@ -32,9 +32,9 @@ class simplewatchfaceView extends Ui.WatchFace {
         var view = View.findDrawableById("TimeLabel");
         view.setText(timeString);
 
-        var dateInfo = Calendar.info( Time.now(), Calendar.FORMAT_SHORT );
-        var dateString = Lang.format("$1$/$2$/$3$",
-         [ dateInfo.month, dateInfo.day, dateInfo.year ]);
+        var dateInfo = Calendar.info( Time.now(), Calendar.FORMAT_LONG );
+        var dateString = Lang.format("$1$_$2$",
+         [ dateInfo.day_of_week, dateInfo.day ]);
          var date = View.findDrawableById("DateLabel");
          date.setText(dateString);
 
